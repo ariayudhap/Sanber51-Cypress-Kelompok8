@@ -6,4 +6,4 @@ Pembagian tugas Kelompok 8:
 3. Leni Andriani - Choose Product
 4. Wilda Adi Hafiz - View & Update shopping cart
 5. Muhammad Azka - Proceed to Checkout
-6. Aria Yudha Pratama - 
+6. Aria Yudha Pratama - Wishlistgit 
