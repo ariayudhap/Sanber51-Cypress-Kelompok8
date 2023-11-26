@@ -7,3 +7,6 @@ Pembagian tugas Kelompok 8:
 4. Wilda Adi Hafiz - View & Update shopping cart
 5. Muhammad Azka - Proceed to Checkout
 6. Aria Yudha Pratama - Wishlist
+
+
+Wishlist tes "Add item to wishlist" terkadang gagal login dengan error message "invalid form key"
